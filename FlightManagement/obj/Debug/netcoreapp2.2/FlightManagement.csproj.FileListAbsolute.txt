@@ -1,0 +1,14 @@
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\FlightManagement.deps.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\FlightManagement.runtimeconfig.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\FlightManagement.runtimeconfig.dev.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\FlightManagement.dll
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\FlightManagement.pdb
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.csprojAssemblyReference.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.RazorAssemblyInfo.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.RazorAssemblyInfo.cs
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.AssemblyInfoInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.AssemblyInfo.cs
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.dll
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\FlightManagement.pdb

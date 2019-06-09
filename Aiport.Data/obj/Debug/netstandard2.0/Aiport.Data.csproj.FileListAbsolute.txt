@@ -1,0 +1,9 @@
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\bin\Debug\netstandard2.0\Aiport.Data.deps.json
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\bin\Debug\netstandard2.0\Aiport.Data.dll
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.csprojAssemblyReference.cache
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.AssemblyInfoInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.AssemblyInfo.cs
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\bin\Debug\netstandard2.0\Aiport.Data.pdb
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.dll
+C:\Users\Ekene\source\repos\AirportApp\Aiport.Data\obj\Debug\netstandard2.0\Aiport.Data.pdb

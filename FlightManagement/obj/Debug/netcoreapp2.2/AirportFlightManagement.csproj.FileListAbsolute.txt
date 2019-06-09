@@ -1,0 +1,17 @@
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\AirportFlightManagement.deps.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\AirportFlightManagement.runtimeconfig.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\AirportFlightManagement.runtimeconfig.dev.json
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\AirportFlightManagement.dll
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.csprojAssemblyReference.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.RazorAssemblyInfo.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.RazorAssemblyInfo.cs
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.AssemblyInfoInputs.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.AssemblyInfo.cs
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\AirportFlightManagement.pdb
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\Aiport.Data.dll
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\bin\Debug\netcoreapp2.2\Aiport.Data.pdb
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.csproj.CopyComplete
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.dll
+C:\Users\Ekene\source\repos\AirportApp\FlightManagement\obj\Debug\netcoreapp2.2\AirportFlightManagement.pdb
